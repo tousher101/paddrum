@@ -3,9 +3,9 @@ Crated by Howler.js, JavaScript and HTML and responsive UI using CSS.
 
 ## Features
 This is not fully Developed.If anyone want use only logic The you should use this.
--> Common Pad Drum.
--> Using Howler.js Library.
--> for practice with music component its best practice.
+- Common Pad Drum.
+- Using Howler.js Library.
+- for practice with music component its best practice.
 
 ## 🛠 Tech Stack
 
